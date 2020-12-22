@@ -1,4 +1,5 @@
 # Design-component-1
+## Coffee Page
 In this repo i will be creating a one pager website which will be responsive with HTML and CSS.
 
 
@@ -16,4 +17,4 @@ In here will be the link when clicked on will be redirected to the page created
 
 
 link to the project 
-https://dwaynebok.github.io/Design-component-1/
+https://dwaynebok.github.io/coffee-page/
