@@ -1,0 +1,48 @@
+/*
+css for navbar and homepage background
+ */
+
+body {
+    margin: 0;
+    background-image: url('../images/nathan-dumlao-6VhPY27jdps-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.topNav{
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topNavMargin{
+    margin-bottom: 18%;
+}
+
+.topNav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topNav a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.topNav a:active{
+    color: white;
+}
+
+.topNav input{
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+}
