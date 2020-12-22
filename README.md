@@ -18,4 +18,4 @@ In here will be the link when clicked on will be redirected to the page created
 
 link to the project 
 
-https://dwaynebok.github.io/coffee-page/
+https://dwaynebok.github.io/coffee-page/.
