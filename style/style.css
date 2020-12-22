@@ -46,3 +46,21 @@ body {
     border: none;
     font-size: 17px;
 }
+
+.text{
+    color: white;
+    width: 300px;
+    word-break: keep-all;
+    text-align: center;
+}
+
+.wrapper {
+    text-align: -moz-center;
+    width: 30%;
+    margin-top: 20%;
+    margin-left: 3%;
+}
+
+
+
+
